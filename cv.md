@@ -6,9 +6,10 @@ Seeking a position where I can improve my coding skills and be able to take part
 
 **HTML, CSS, JS, React**
 
-https://damascan-alexandru-2.netlify.app/  
-https://github.com/Damascan-Alex/sandu-samurai  
-https://github.com/Damascan-Alex/to-not-do-list  
+
+[Responsive Landing Page WayUp Course Project](https://damascan-alexandru-2.netlify.app/)  
+[Social Network from React Samurai Couse](https://github.com/Damascan-Alex/sandu-samurai)   
+[To do project made in React](https://github.com/Damascan-Alex/to-not-do-list)
 
 
 **Marketing and Logistics USM 2011**
