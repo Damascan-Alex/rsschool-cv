@@ -1,25 +1,26 @@
-Damascan Alexandru
+**Damascan Alexandru**
+
 damascan89@gmail.com	+66618697841
 
 Seeking a position where I can improve my coding skills and be able to take part in one of the most dynamic industries. Where can always learn new stuff and have the opportunity to grow.
 
-HTML CSS JS React
+**HTML, CSS, JS, React**
 
-https://damascan-alexandru-2.netlify.app/
-https://github.com/Damascan-Alex/sandu-samurai
-https://github.com/Damascan-Alex/to-not-do-list
+https://damascan-alexandru-2.netlify.app/  
+https://github.com/Damascan-Alex/sandu-samurai  
+https://github.com/Damascan-Alex/to-not-do-list  
 
 
-Marketing and Logistics USM 2011
+**Marketing and Logistics USM 2011**
 
-COURSES: 
-Isac Rudinsky Udemy Course Google Ads Mastery
-Code Academy Web Development Course 
-Code with Mosh React Course
-it-kamasutra.com -  Free Youtube course about React and Redux
-Way Up - WebDesign Course
+**COURSES:**    
+Isac Rudinsky Udemy Course Google Ads Mastery  
+Code Academy Web Development Course   
+Code with Mosh React Course  
+it-kamasutra.com -  Free Youtube course about React and Redux  
+Way Up - WebDesign Course  
 
-EXPIRIENCE: 
+**EXPIRIENCE:**
 CO-Founder TotalVR 2015 - Present
 Started this venture from the first days when HTC Vive announced the consumer version of the VR Headsets. The goal was to give people the opportunity to try VR without the necessity to invest big amounts of money in VR ready PC and a decent headset. We were able to grow it will 3 branches and optimize the work process till the point where no longer need to be involved in daily routine. 
 
