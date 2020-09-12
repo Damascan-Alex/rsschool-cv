@@ -1,0 +1,13 @@
+body {
+	font-family: Roboto, Arial, sans-serif;
+	font-size: 16px;
+	max-width: 1024px;
+	margin: 0 auto;
+}
+
+h1,
+h2,
+h3 {
+	font-size: 16px;
+	font-weight: 600;
+}
