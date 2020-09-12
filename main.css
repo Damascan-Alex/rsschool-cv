@@ -1,0 +1,40 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+}
+
+h1,
+h2 {
+	font-size: 17px;
+}
+h3 {
+	font-size: 16px;
+}
+
+main {
+	max-width: 1024px;
+	margin: 30px auto;
+	padding: 0 15px;
+}
+.contact {
+	display: flex;
+	align-items: center;
+}
+
+.avatar {
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+}
+.contact-info {
+	margin-left: 20px;
+}
+
+.contact-info p {
+	margin: 5px 0;
+}
+
+.experience h3,
+.experience p {
+	margin: 10px 20px;
+}
